@@ -1,14 +1,12 @@
 *.swo
 *.swp
 *~
-*~
 .arcconfig
 .bin
 .bundle
 .bundle/**/*
 .nginx.conf
 .rspec
-.rvmrc
 .rvmrc
 .sass-cache
 /vendor/ruby

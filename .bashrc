@@ -137,7 +137,7 @@ export PS1="${USER_AT_HOST}:${WORKING_DIR} ${RVM_GIT}\n$ "
 alias espresso='~/The-M-Project_v1.4.0/Espresso/bin/espresso.js'
 
 # pyenv init to enable shims and autocompletion
-eval "$(pyenv init -)"
+# eval "$(pyenv init -)"
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
